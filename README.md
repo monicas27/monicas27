@@ -8,13 +8,13 @@
   <img 
     src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn"
-    style="border-radius: 20px; padding: 5px 10px; width: 160px; height: 40px;" />
+    style="border-radius: 20px; padding: 5px 10px; width: 160px; height: 23px;" />
  </a>
  <a href="mailto:monicasilvasouza94@gmail.com">
    <img 
     src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="E-mail"
-    style="border-radius: 20px; padding: 5px 10px; width: 160px; height: 40px;" />
+    alt="E- mail"
+    style="border-radius: 20px; padding: 5px 10px; width: 160px; height: 23px;" />
  </a>
 
 
