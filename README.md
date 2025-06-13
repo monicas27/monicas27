@@ -1,8 +1,8 @@
 # 🚀💡Monica Silva
 **`Estudante de Tecnologia da Informação | Entusiasta de Computação em Nuvem`**
 
-<p>Me chamo Monica Silva de Souza, tenho 30 anos e sou natural de Salvador. Sou apaixonada por tecnologia e o impacto positivo que ela pode gerar.</p> 
-<p></p>Atualmente, estou cursando gestão da tecnologia da Informação, e dedico meus estudos e práticas à computação em nuvem, explorando ferramentas e soluções.</p> 
+<p>Me chamo Monica Silva de Souza, natural de Salvador - BA. Sou apaixonada por tecnologia e o impacto positivo que ela pode gerar.</p> 
+<p></p>Atualmente, estou cursando gestão da tecnologia da Informação, e dedico meus estudos e práticas à computação em nuvem e gestão, explorando ferramentas e soluções.</p> 
 <p>
  <a href="https://www.linkedin.com/in/monicasilvadesouza" target="_blank">
   <img 
@@ -58,4 +58,7 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
+
+  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=monicas27&layout=compact&langs_count=6&theme=default)
 
